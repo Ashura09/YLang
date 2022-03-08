@@ -1,3 +1,0 @@
-append helloworld.yln
-out
-say This text should not be printed out!

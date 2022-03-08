@@ -1,5 +1,0 @@
-append helloworld.yln
-
-say var: input()
-input()
-say var: input()
