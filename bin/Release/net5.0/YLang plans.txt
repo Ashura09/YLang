@@ -1,0 +1,14 @@
+planned words:
+say
+sum
+sub
+mul
+div
+method
+if
+else
+condition
+when
+while
+yes
+no
