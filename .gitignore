@@ -1,1 +1,7 @@
 bin
+bin/Release/net5.0/YLang.dll
+bin/Release/net5.0/YLang.dll
+*.pdb
+obj/Release/net5.0/YLang.csproj.AssemblyReference.cache
+obj/Release/net5.0/YLang.dll
+obj/Release/net5.0/YLang.pdb

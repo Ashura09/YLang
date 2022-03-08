@@ -52,10 +52,7 @@ namespace YLang
                         Console.WriteLine(parser);
                     }
                 }
-                if (line.StartsWith("out"))
-                {
-                    return;
-                }
+                if (line.StartsWith("out")) return;
                 if (line.StartsWith("input()"))
                 {
                     input = Console.ReadLine();
